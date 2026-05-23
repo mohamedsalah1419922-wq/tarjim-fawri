@@ -1,0 +1,6 @@
+{
+  "name": "Fowri Translator",
+  "description": "منصة Fowri Translator الذكية والشاملة للترجمة الفورية الفائقة للنصوص والصور ومقاطع الفيديو بدعم من الذكاء الاصطناعي وبتصميم عصري مودرن.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
